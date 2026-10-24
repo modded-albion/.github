@@ -4,6 +4,10 @@ Mods and tools for [Masters of Albion](https://store.steampowered.com/app/316565
 
 <img width="1616" height="939" alt="land-sculpt-d3d11-undo" src="https://github.com/user-attachments/assets/1a80382a-135e-4e52-88ec-1154513d2092" />
 
+---
+
+| :exclamation:  Masters of Albion is still in early access. These mods hook and patch into code therefore game updates will break them and may make your game unstable. |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Mods
 
@@ -24,5 +28,3 @@ Mods and tools for [Masters of Albion](https://store.steampowered.com/app/316565
 1. Put `version.dll` from the mod loader next to `moa.exe` in the game folder.
 2. Put the mod DLLs and mod zips in the `mods` folder of the game.
 3. Start the game. The mods show in the menu bar of the game menu.
-
-Each mod names the game builds that it is for. A Steam update of the game can stop a mod until the mod has a new release.
