@@ -6,7 +6,7 @@ Mods and tools for [Masters of Albion](https://store.steampowered.com/app/316565
 
 ---
 
-| :exclamation:  Masters of Albion is still in early access. These mods hook and patch into code therefore game updates will break them and may make your game unstable. |
+| :exclamation:  Masters of Albion is still in early access. These mods hook and patch into code; game updates will break them and may make your game unstable. |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Mods
